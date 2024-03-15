@@ -1,0 +1,21 @@
+{
+  "name": "@maulanarym/tea-testnet-bruh",
+  "version": "1.0.0",
+  "description": "tea testnet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaulanaRyM/Tea-Testnet.git"
+  },
+  "author": "MaulanaRyM",
+  "dependencies": {},
+     ""  
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaulanaRyM/Tea-Testnet/issues"
+  },
+  "homepage": "https://github.com/MaulanaRyM/Tea-Testnet#readme"
+}
